@@ -1,6 +1,6 @@
 # 一个漂亮的个人主页
 
-Demo: [www.tomys.top](https://www.tomys.top) 
+Demo: [wcb-dufe.github.io/wcb.github.io](https://wcb-dufe.github.io/wcb.github.io/) 
 
 
 
